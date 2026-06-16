@@ -4,7 +4,7 @@
 
 Arkive lets you secure your digital assets in a non-custodial vault and automatically distribute them to your chosen beneficiaries if you become inactive — with multi-signal verification, guardian approvals, and a panic abort system so you are always in control.
 
-🌐 **Live App:** [https://arkive-v1.vercel.app](https://arkive-v1.vercel.app)
+🌐 **Live App:** [https://arkive-v0.vercel.app](https://arkive-v0.vercel.app)
 
 ---
 
